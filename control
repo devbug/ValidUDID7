@@ -1,0 +1,9 @@
+Package: me.devbug.validudid7
+Name: ValidUDID7
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Get valid UDID in iOS 7
+Maintainer: deVbug
+Author: deVbug
+Section: Tweaks
